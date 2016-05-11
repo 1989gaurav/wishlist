@@ -9,6 +9,7 @@
 
 #### Articles
 * [ ] [systemd](http://0pointer.de/blog/projects/systemd-for-admins-1.html)
+* [ ] [Essential C](http://cslibrary.stanford.edu/101/)
 
 
 #### Project Management
