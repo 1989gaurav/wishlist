@@ -19,6 +19,7 @@
 * [ ] [aws-vault](https://github.com/99designs/aws-vault)
 * [ ] [Verizon data breach investigation report](http://www.verizonenterprise.com/resources/reports/rp_DBIR_2016_Report_en_xg.pdf)
 * [ ] [Threat Modeling: Designing for Security](http://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998/ref=sr_1_1?ie=UTF8&qid=1462122022&sr=8-1&keywords=threat+modeling)
+* [ ] [FB Capture the flag](https://github.com/facebook/fbctf)
 
 #### Ruby
 * [ ] [Design Patterns in Ruby](http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452)
