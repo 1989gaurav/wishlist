@@ -16,6 +16,7 @@
 * [ ] Excel Pivot Table
 
 #### Security
+* [ ] [Penetration Testing](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 * [ ] [Rails Goat](https://github.com/OWASP/railsgoat)
 * [ ] [aws-vault](https://github.com/99designs/aws-vault)
 * [ ] [Verizon data breach investigation report](http://www.verizonenterprise.com/resources/reports/rp_DBIR_2016_Report_en_xg.pdf)
