@@ -16,6 +16,8 @@
 * [ ] Excel Pivot Table
 
 #### Security
+* [ ] [Sandbox](https://www.chromium.org/developers/design-documents/sandbox)
+* [ ] [Security Development Cycle](https://www.microsoft.com/en-us/sdl/)
 * [ ] [Penetration Testing](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 * [ ] [Rails Goat](https://github.com/OWASP/railsgoat)
 * [ ] [aws-vault](https://github.com/99designs/aws-vault)
