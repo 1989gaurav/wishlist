@@ -25,6 +25,11 @@
 * [ ] [Threat Modeling: Designing for Security](http://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998/ref=sr_1_1?ie=UTF8&qid=1462122022&sr=8-1&keywords=threat+modeling)
 * [ ] [FB Capture the flag](https://github.com/facebook/fbctf)
 
+
+#### Security Courses
+* [ ] [Computer Systems Security](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/index.htm)
+* [ ] [Network and Computer Security](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-857-network-and-computer-security-spring-2014/)
+
 #### Ruby
 * [ ] [Design Patterns in Ruby](http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452)
 * [ ] [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-ebook/dp/B004MMEJ36/ref=mt_kindle?_encoding=UTF8&me=)
